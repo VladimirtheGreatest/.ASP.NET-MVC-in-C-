@@ -14,6 +14,7 @@ namespace MVCapp.Controllers
         {
             return View();
         }
+        // GET: People/PeopleList
         public ActionResult ListPeople()
         {
             //model
